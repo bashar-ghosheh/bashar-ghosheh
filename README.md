@@ -16,7 +16,7 @@ Arabic-English lecture transcription, translation, and AI-generated study tools.
 ## Featured projects
 
 - [WRO 2026 Autonomous Car](https://github.com/bashar-ghosheh/wro-2026-autonomous-car) — Autonomous driving with camera and LiDAR perception, Raspberry Pi control, and ESP32 actuation.
-- [Multithreaded Matrix Multiplication](https://github.com/bashar-ghosheh/MultiThreading-Matrix-Multiplication) — A Win32 benchmark comparing row-wise, column-wise, and cache-tiled matrix multiplication.
+- [Multithreaded Matrix Multiplication](https://github.com/bashar-ghosheh/multithreaded-matrix-multiplication-c) — A Win32 benchmark comparing row-wise, column-wise, and cache-tiled matrix multiplication.
 - [AI Lecture Note-Taker](https://github.com/bashar-ghosheh/ai-lecture-note-taker) — Arabic-English lecture transcription, translation, and AI-generated study materials.
 
 ## Contact
